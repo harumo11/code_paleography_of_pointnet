@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -L -o modelnet10-princeton-3d-object-dataset.zip\
+  https://www.kaggle.com/api/v1/datasets/download/balraj98/modelnet10-princeton-3d-object-dataset
