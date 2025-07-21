@@ -1,0 +1,4 @@
+notebook/.ipynb_checkpoints
+notebook/log_modelnet10_classification
+.venv
+.envrc
